@@ -112,5 +112,5 @@ In the `app.js` file you can see multiple arrays that stores commands :
 - `customCommands`: Commands that needs a specials JS treatments, in my case `dark`/`light` to swith app theme, `get cv` to download my resume, ...
 - `commandsList`: This is the main array used for autocompletion, it stores `customCommands` **and** commands that are listed in the `commands.json` file.
 
-This is a README.md file commit from Abdullah
-#Adding a comment
+## This is a README.md file commit from Abdullah
+## Adding a comment

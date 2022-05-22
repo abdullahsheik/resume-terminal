@@ -113,3 +113,4 @@ In the `app.js` file you can see multiple arrays that stores commands :
 - `commandsList`: This is the main array used for autocompletion, it stores `customCommands` **and** commands that are listed in the `commands.json` file.
 
 This is a README.md file commit from Abdullah
+#Adding a comment
